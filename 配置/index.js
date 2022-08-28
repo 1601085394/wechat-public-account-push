@@ -19,7 +19,7 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "河北",
+    PROVINCE: "123",
     // 所在城市
     CITY: "张家口",
 
